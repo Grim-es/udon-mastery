@@ -1,0 +1,21 @@
+{
+  "name": "udon-mastery",
+  "description": "The compiler-boundary and cost-model layer for UdonSharp: a constraint reference verified against the U# compiler source, 16 topic files spanning instruction-level cost to Udon-GPU bridges, a 252-entry technique catalog, and a lint hook that flags non-Udon C# as it is written. Out of scope: VRChat tutorials, the SDK API index, scene setup, uploading, and the SDK component catalogue.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shotariya",
+    "url": "https://github.com/Grim-es"
+  },
+  "homepage": "https://github.com/Grim-es/udon-mastery",
+  "repository": "https://github.com/Grim-es/udon-mastery",
+  "license": "MIT",
+  "keywords": [
+    "vrchat",
+    "udon",
+    "udonsharp",
+    "unity",
+    "csharp",
+    "gamedev",
+    "worlds-sdk"
+  ]
+}

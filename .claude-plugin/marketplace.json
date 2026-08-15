@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "shotariya",
+  "description": "VRChat world-development tooling for Claude Code",
+  "owner": {
+    "name": "shotariya",
+    "url": "https://github.com/Grim-es"
+  },
+  "plugins": [
+    {
+      "name": "udon-mastery",
+      "source": "./plugins/udon-mastery",
+      "description": "The compiler-boundary and cost-model layer for UdonSharp: a constraint reference verified against the U# compiler source, 16 topic files spanning instruction-level cost to Udon-GPU bridges, a 252-entry technique catalog, and a lint hook that flags non-Udon C# as it is written. Out of scope: VRChat tutorials, the SDK API index, scene setup, uploading, and the SDK component catalogue.",
+      "category": "development",
+      "keywords": ["vrchat", "udon", "udonsharp", "unity", "csharp", "gamedev"]
+    }
+  ]
+}
